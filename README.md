@@ -1,30 +1,13 @@
-# 🧩 Exploratory Data Analysis (EDA) Tool
+This project is a desktop-based **Exploratory Data Analysis (EDA) Tool** built using 
+Python libraries such as **Tkinter, Pandas, Seaborn, and Matplotlib**.  
 
-A simple desktop-based EDA tool built with **Tkinter, Pandas, Seaborn, and Matplotlib**.  
-It allows users to:
-- Load CSV datasets
-- View basic statistics
-- Visualize data using Histograms, Scatter plots, Line plots, Box plots, and Bar plots
-- Export generated charts as images
+The tool is designed for **non-programmers** who want to quickly explore and visualize data 
+without writing code. It provides a **dark-themed user interface** with easy-to-use controls.  
+Users can:
+- 📂 Load CSV files
+- 📊 View dataset statistics
+- 📈 Generate multiple chart types (Histogram, Scatter, Line, Box, Bar)
+- 💾 Export charts as PNG or JPEG images  
 
----
-
-## 🚀 Features
-- **GUI-based** (no coding required)
-- Dark theme with modern design
-- Automatic **column dropdown** after loading dataset
-- Supports **multiple chart types**
-- Works **offline** as a desktop app
-
----
-
-## 📸 Screenshots
-*(Add screenshots of your app here)*
-
----
-
-## ⚡ Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/eda-tool.git
-   cd eda-tool
+Unlike web-based tools (Streamlit, Dash), this tool works fully **offline** and is lightweight, 
+making it ideal for students, researchers, and professionals who need quick insights into their data.
